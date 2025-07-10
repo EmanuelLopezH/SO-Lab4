@@ -56,6 +56,3 @@ go run queue.go
 go run producer_consumer.go
 go run dining_philosophers.go
 ```
-
----
-# SO-Lab4
